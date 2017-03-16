@@ -18,8 +18,8 @@ public class Magie {
 		} else {
 			System.out.println("erreur, aucune des valeures ne doit dépasser 3.");
 		}
-		
-		
 	}
+	
+	
 
 }
